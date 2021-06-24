@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "han.start",
+      "type": "cn.han.start.properties.HanProperties",
+      "sourceType": "cn.han.start.properties.HanProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "han.start.name",
+      "type": "java.lang.String",
+      "sourceType": "cn.han.start.properties.HanProperties"
+    }
+  ],
+  "hints": []
+}

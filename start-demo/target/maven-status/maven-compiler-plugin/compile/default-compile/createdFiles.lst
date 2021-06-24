@@ -1,0 +1,4 @@
+cn\han\start\properties\HanProperties.class
+cn\han\start\server\DemoServer.class
+META-INF\spring-configuration-metadata.json
+cn\han\start\configure\HanAutoConfigure.class
